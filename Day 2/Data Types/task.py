@@ -1,1 +1,1 @@
-len("Hello")
+print(type(1.2))
