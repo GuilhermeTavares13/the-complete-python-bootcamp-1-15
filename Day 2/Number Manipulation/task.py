@@ -1,1 +1,2 @@
-bmi = 84 / 1.65 ** 2
+score = 9
+print(f"Your score is {score}")
